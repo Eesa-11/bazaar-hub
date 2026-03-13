@@ -79,11 +79,6 @@ const Login = () => {
             Register here
           </Link>
         </p>
-
-        <div className="mt-6 p-4 bg-blue-50 rounded-lg">
-          <p className="text-sm text-gray-700 font-semibold mb-2">Test Account:</p>
-          <p className="text-sm text-gray-600">user@test.com / password123</p>
-        </div>
       </div>
     </div>
   );
